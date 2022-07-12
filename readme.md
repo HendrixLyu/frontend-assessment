@@ -8,6 +8,6 @@ Exercise 2 only sets a breakpoint at 768px. I'm rewriting Exercise 2 in React, a
 The current version is already working.
 
 For the last Question, here is my answer (also shown in baNaNa.png):
- + 'a' = NaN
++ + 'a' = NaN
 'b' + 'a' + + 'a' + 'a' = 'baNaNa'
 ('b' + 'a' + + 'a' + 'a').toLowerCase = 'banana'
