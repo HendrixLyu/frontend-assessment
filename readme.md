@@ -6,7 +6,7 @@ I didn't use any framework like React or Vue for this exercise, just a simple we
 
 Both exercises 1 and 2 made a responsive layout and set breakpoints. Exercise 1 is limited by the size of the image, so the best experience is >992px (for desktop) and < 768px (for mobile).
 
-Exercise 2 only sets a breakpoint at 768px. I'm rewriting Exercise 2 in React, and I'll push it later.
+Exercise 2 only sets a breakpoint at 768px. I'm rewriting Exercise 2 in React, and I'll push it later (15 Jul).
 The current version is already working.
 
 For the last Question, here is my answer (also shown in `baNaNa.png`):
@@ -24,4 +24,4 @@ Change directory to the /backend file and run npm i, then run npm start and npm 
 ### `cd backend` , `npm i` , `npm start` & `npm run json-server`.
 then `cd ..` Change directory to the /frontend file and run npm i, then run npm start.
 ### `cd frontend` , `npm i` , `npm start`.
-The React version could run successfully
+The React version could run successfully and the display effect is the same as the VanillaJS.
