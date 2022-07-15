@@ -6,7 +6,7 @@ I didn't use any framework like React or Vue for this exercise, just a simple we
 
 Both exercises 1 and 2 made a responsive layout and set breakpoints. Exercise 1 is limited by the size of the image, so the best experience is >992px (for desktop) and < 768px (for mobile).
 
-Exercise 2 only sets a breakpoint at 768px. I'm rewriting Exercise 2 in React, and I'll push it later (15 Jul).
+Exercise 2 only sets a breakpoint at 768px. I‘ll rewrite Exercise 2 in React, and I'll push it later (15 Jul).
 
 The current version is already working.
 
