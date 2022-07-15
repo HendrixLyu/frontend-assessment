@@ -21,4 +21,6 @@ Use Express to create a web server and provide an api to get data from the datab
 Under the exercise2_ReactJS directory,
 
 Change directory to the /backend file and run npm i, then run npm start and npm run json-server.
-### cd backend , npm i , npm start & npm run json-server
+### `cd backend` , `npm i` , `npm start` & `npm run json-server`.
+then `cd ..` Change directory to the /frontend file and run npm i, then run npm start.
+### `cd frontend` , `npm i` , `npm start` & `npm run json-server`.
