@@ -15,7 +15,7 @@ For the last Question, here is my answer (also shown in `baNaNa.png`):
 >_ 'b' + 'a' + + 'a' + 'a' = 'baNaNa'
 >_ ('b' + 'a' + + 'a' + 'a').toLowerCase = 'banana'
 
-## Update
+## Update(15 Jul)
 
 I implemented the `React` version for Exercise_2 on Friday, and I also set up a server and a `JSON Server` which was used to simulate a Database(/db/data.json).
 
