@@ -21,11 +21,11 @@ I implemented the `React` version for Exercise_2 on Friday, and I also set up a 
 
 Use `Express` to create a web server and provide an api to get data from the database, paste the content of the 'data.json' file into the Database then fetch and return the data to the front end through the `fetchData.js` api.
  
-Under the `exercise2_ReactJS` directory,
+Under the `/exercise2_ReactJS` directory,
 
-Change directory to the /backend file and run npm i, then run npm start and npm run json-server.
+Change directory to the `/backend` file and run npm i, then run npm start and npm run json-server.
 ### `cd backend` , `npm i` , `npm start` & `npm run json-server`.
 ### `cd ..`
-then Change directory to the /frontend file and run npm i, then run npm start.
+then Change directory to the `/frontend` file and run npm i, then run npm start.
 ### `cd frontend` , `npm i` , `npm start`.
 The React version could run successfully and the display effect is the same as the VanillaJS.
