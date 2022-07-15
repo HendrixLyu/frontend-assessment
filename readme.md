@@ -14,6 +14,8 @@ For the last Question, here is my answer (also shown in `baNaNa.png`):
 >_ 'b' + 'a' + + 'a' + 'a' = 'baNaNa'
 >_ ('b' + 'a' + + 'a' + 'a').toLowerCase = 'banana'
 
+###Update
+
 I implemented the `React` version for Exercise_2 on Friday, and I also set up a server and a `JSON Server` which was used to simulate a Database(/db/data.json).
 
 Use `Express` to create a web server and provide an api to get data from the database, paste the content of the 'data.json' file into the Database then fetch and return the data to the front end through the `fetchData.js` api.
