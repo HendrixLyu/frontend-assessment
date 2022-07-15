@@ -25,7 +25,7 @@ Under the `exercise2_ReactJS` directory,
 
 Change directory to the /backend file and run npm i, then run npm start and npm run json-server.
 ### `cd backend` , `npm i` , `npm start` & `npm run json-server`.
-## `cd ..`
+### `cd ..`
 then Change directory to the /frontend file and run npm i, then run npm start.
 ### `cd frontend` , `npm i` , `npm start`.
 The React version could run successfully and the display effect is the same as the VanillaJS.
